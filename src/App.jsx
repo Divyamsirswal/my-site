@@ -2,7 +2,7 @@ import { FaGithub } from "react-icons/fa";
 import { TbBrandCpp } from "react-icons/tb";
 import { RiJavascriptFill } from "react-icons/ri";
 import { FaHtml5, FaS } from "react-icons/fa6";
-import { FaCss3Alt } from "react-icons/fa6";  
+import { FaCss3Alt } from "react-icons/fa6";
 import { SiTailwindcss } from "react-icons/si";
 import { IoLogoReact } from "react-icons/io5";
 import videoSource from "./videos/4K_14.mp4";
