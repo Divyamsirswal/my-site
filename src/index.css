@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+@font-face {
+  font-family: "scremer-bold";
+  src: url(./fonts/FKScreamer-Bold.ttf);
+}
+
+@font-face {
+  font-family: "vegan";
+  src: url(./fonts/VeganStylePersonalUse-5Y58.ttf);
+}
+
+@font-face {
+  font-family: "ss";
+  src: url(./fonts/SourceSansPro-Regular.ttf);
+}
+
+@font-face {
+  font-family: "rm-bold";
+  src: url(./fonts/RobotoMono-Bold.ttf);
+}
